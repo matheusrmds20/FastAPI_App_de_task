@@ -54,7 +54,7 @@ cli/
 
 ### 1️⃣ Clonar o repositório
 ```text
-git clone <repo-url>
+git clone <https://github.com/matheusrmds20/FastAPI_App_de_task>
 cd backend
 ```
 ### 2️⃣ Criar ambiente virtual
