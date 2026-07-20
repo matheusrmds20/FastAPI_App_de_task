@@ -2,7 +2,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pydantic](https://img.shields.io/badge/pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-## Projeto backend em FastAPI com autenticação JWT, banco de dados relacional e um CLI em Python que consome a API. Este projeto foi feito com foco em aprendizado prático e em demonstrar competências esperadas para estágio/júnior backend.
+## Projeto backend em FastAPI com autenticação JWT, banco de dados relacional e um CLI em Python que consome a API. Este projeto foi feito com foco em aprendizado prático e em demonstrar competências
 
 ## ✨ Funcionalidades
 
